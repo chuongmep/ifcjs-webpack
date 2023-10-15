@@ -17,4 +17,4 @@ jobs:
     - name: Build
       run: |
         bun install
-        npx run build
+        bun run build
